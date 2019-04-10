@@ -1,0 +1,58 @@
+body 
+  {
+    background: url(http://www.coloradoschoolofmusic.com/wp-content/uploads/2011/12/Fotolia_17875822_Subscription_XL.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   }
+
+   p 
+   {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:transparent;
+   }
+   
+
+   h1
+{
+ color: white;
+ background-color:transparent
+ border: 0px solid black;
+ font-family: font-family: "Verdana";
+ font-size: 350% ;
+}
+
+h2
+{
+ color: rgba(209, 209, 209, 0.897);
+ background-color:transparent
+ border: 0px solid black;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.col-sm
+{
+    color: white;
+    background-color: rgb(24, 24, 24);
+    border: 1px solid black;
+}
+
+
+
+th
+{
+ color: rgb(255, 255, 255);
+ background-color:rgb(59, 59, 59);
+ border: 0px solid black;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+td
+{
+ color: white;
+ background-color:transparent
+ border: 0px solid black;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
